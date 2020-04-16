@@ -9,4 +9,4 @@ Analysis and prediction of a famous dataset
 ## Data Visualization
 * Corrolation with R
 * Boxplot and barplot with R
-* 3D iteractive graph with Python
+* 3D interactive graph with Python
